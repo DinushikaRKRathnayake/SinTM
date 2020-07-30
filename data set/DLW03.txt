@@ -1,0 +1,252 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUB
+
+LISHER>
+<DATE>2004</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+ලන්ඩන්_NNPI විත්ති_NNN
+
+සුමිත්_NNPA කඩවතගේ_NNPA ලන්ඩන්_NNPI නුවර_NNN 
+
+සිට_POST ..._: 
+බ්‍රිතාන්‍ය_NNPI මහා_JJ පුස්තකාලයේ_NNN සැඟවී_VNF ගිය_VP 
+
+අපේ_PRP පොත්_NNN පත්_NNN
+බ්‍රිතාන්‍ය_NNPI කෞතුකාගාරය_NNN විසින්_POST ශතක_QFNUM 
+
+ගණනාවක්_NNN තිස්සේ_POST රැස්_? කරන_VP ලද_VP හා_CC 
+
+බ්‍රිතාන්‍ය_NNPI මහා_JJ පුස්තකාලය_NNN විසින්_POST 
+
+ප්‍රතිසංස්කරණය_NNN ලද_VP සිංහල_NNN අත්_JJ පිටපත්_NNN 
+
+හා_CC මුද්‍රිත_VP පොත්_NNN පත්_NNN රාශියක්_NNN තවමත්_POST 
+
+බ්‍රිතාන්‍ය_NNPI පුස්තකාලය_NNN තුළ_POST සැඟවී_VNF ඇති_VP 
+
+බව_? නොරහසකි_NNN ._. මෙම_DET ග්‍රන්ථ_NNN 
+
+කන්දරාව_NNN අතර_POST කීර්තියට_NNN පත්_? '_" හියු_NNPA 
+
+නෙවිල්_NNPA '_" විසින්_POST ගොනු_NVB කරන_VP ලද_VP 
+
+තල්_JJ කොළයෙහි_NNN ලියැවුණු_VP අත්_JJ පිටපත්_NNN 
+
+2227ක්_QFNUM සහ_CC තවත්_DET ශත_QFNUM වර්ෂ_NNN 
+
+ගණනාවකට_NNN නෑකම්_NVB කියන_VP ග්‍රන්ථ_NNN රාශියක්_NNN 
+
+පුස්_NVB වදිමින්_VNF පුස්තකාලයේ_NNN මුල්ලක_NNN ඇති_VP 
+
+බව_? පසුගිය_JJ දා_NNN දැනගන්නට_NVB ලැබිණි_VFM ._.
+බෞද්ධ_NNPI දර්ශනය_NNN ඉතිහාසයේ_NNN නොයෙකුත්_JJ 
+
+ක්‍රියාකාරකම්_NNN ,_, භූ_NNN විද්‍යාව_NNN ,_, ලෝ_NNN 
+
+විස්තර_NNN ,_, මානව_NNN විද්‍යාව_NNN ,_, ව්‍යාකරණය_NNN 
+
+,_, ශබ්ද_NNN කෝෂ_NNN විද්‍යාව_NNN ,_, ඡන්දස්_NNN 
+
+ශාස්ත්‍රය_NNN ,_, ලෞඛික_NNN බෞද්ධ_NNPI ගායනා_NNN ,_, 
+
+හෙළ_NNPI වෙද_NNN හෙදකම_NNN ,_, පුරාණ_NNN චාරිත්‍ර_NNN 
+
+වාරිත්‍ර_NNN ,_, අපේ_PRP ආචාර_NNN ධර්ම_NNN ,_, 
+
+විද්‍යාව_NNN හා_CC මායා_NNN ,_, විජ්ජා_NNN ගැන_POST 
+
+ලියැවුණු_VP මෙවන්_JJ අගනා_JJ ග්‍රන්ථයන්_NNN සමූහයක්_NNN 
+
+ශ්‍රී_NNPI ලංකාවෙන්_NNPI හෝ_CC ලෝකයේ_NNN වෙනත්_DET 
+
+කිසිම_DET තැනකින්_NNN සොයා_VNF ගත_VP නොහැක_? ._. 
+
+මේ_DET ගැන_POST අප_PRP දැනුවත්_JVB කළ_VP 
+
+ආචාර්ය_NNM සුනිල්_NNPA කාරියකරවන_NNPA මහතා_NNM 
+
+පවසා_VNF සිටියේ_VP මෙහි_PRP වටිනාකම_NNN වචනින්_NNN 
+
+කිව_VP නොහැකි_? බව_? යි_RP ._. එතුමා_PRP පවසන_VP 
+
+අන්දමට_NNN එය_PRP අපට_PRP ලැබුණු_VP නිධානයකි_NNN 
+
+._. නමුත්_CC මෙවන්_JJ සම්පතකින්_NNN කිසිදු_DET
+
+ප්‍රයෝජනයක්_NVB නොගෙන_VNF මුල්ලකට_NNN විසිකර_VNF 
+
+තිබීම_VNN කොතරම්_DET කනගාටුදායක_JJ ද_RP ?_. නව_JJ 
+
+භාරකාරත්වයකට_NNN පත්_? වූ_VP පසු_RP මේ_DET තත්ත්වය_NNN 
+
+උද්ගත_NVB වූයේ_VP යැයි_CC කාරියකරවන_NNPA මහතා_NNM 
+
+පවසයි_VFM ._.
+තවත්_DET කනගාටුදායක_JJ සිද්ධියක්_NNN වන්නේ_VP
+
+1980න්_QFNUM පසු_RP ව_RP කිසිම_DET ග්‍රන්ථයක්_NNN ශ්‍රී_NNPI 
+
+ලංකාවෙන්_NNPI පුස්තකාලය_NNN වෙත_POST නොඑවීමයි_VNN 
+
+._. පුස්තකාල_NNN නිලධාරීන්_NNM මේවායේ_PRP වටිනාකම_NNN 
+
+අවබෝධ_NVB කොට_VNF ගෙන_VP තිබිය_VP දී_POST අපේ_PRP 
+
+බලධාරීන්_NNM හෝ_CC ශ්‍රී_NNPI ලාංකික_NNPI පුරවැසියන්_NNM මෙසේ_RB 
+
+අකර්මණ්‍ය_JVB තත්ත්වයකට_NNN මෙම_DET පොත්_NNN පත්_NNN දමා_VNF තිබීම_VP මොනතරම්_DET 
+
+අවසනාවක්_NNN  ද_RP ?_. පුස්තකාල_NNN නිලධාරීන්_NNM අතීතයේ_NNN කිහිප_PRP
+
+විටක්_NNN මෙම_DET වටිනාකම_NNN තේරුම්_NVB ගෙන_VP වැඩදායි_NNN වැඩ_NNN පිළිවෙළක්_NNN සූදානම්_NVB කිරීමට_VNN 
+
+උත්සාහ_NVB ගත්ත_VP ද_RP ශ්‍රී_NNPI ලාංකිකයින්ගේ_NNM මන්දෝත්සාහය_NNN නිසා_RP අඩපණ_JVB වී_VNF ඇත_VFM ._. කෙසේ_RB 
+
+හෝ_CC නව_JJ පුස්තකාල_NNN පරිපාලනය_NNN මේ_DET වටිනාකම_NNN නැවතත්_RB අවබෝධ_NVB කර_VNF ගෙන_VNF සති_NNN 10ක්_QFNUM වැනි_POST සුළු_JJ කාලයක්_NNN සඳහා_POST හෝ_CC ආචාර්ය_NNM සුනිල්_NNPA කාරියකරවන_NNPA මහතා_NNM පුස්තකාලයේ_NNN 
+
+සිංහල_NNPI පාලක_NNN වශයෙන්_POST පත්_? කර_VP ඇත_VFM ._. ඉතාමත්_RP සුළු_JJ කාලයක්_NNN තුළදී_POST හැකි_? පමණින්_NNN
+
+4000කට_QFNUM අධික_JJ වූ_VP මෙම_DET ග්‍රන්ථයන්_NNN ලැයිස්තු_NNN ගත_NVB කිරීමේ_VNN කටයුත්ත_NNN ආරම්භ_NVB කොට_VNF 
+
+ඇත_VFM ._. ග්‍රන්ථවල_NNN ඇති_VP පුළුල්_JJ බව_? සහ_CC විෂය_NNN සම්භාරය_NNN අධික_JJ නිසා_RP එවැනි_JJ සුළු_JJ කාලයකදී_NNN 
+
+එය_PRP නිම_NVB කිරීම_VNN ඉතාම_JJ අපහසු_NNN කාර්යයක්_NNN බව_? ඒ_DET මහතා_NNM පැවසීය_VFM ._.
+නමුත්_CC ඊට_RP වඩා_RP දීර්ඝ_JJ කාලයක්_NNN සඳහා_POST එම_DET වගකීම_NNN ඔහු_PRP වෙත_POST පැවරීමට_VNN පුස්තකාල_NNN 
+
+පරිපාලනයට_NNN අපහසු_NVB වීම_VNN තුළින්_POST මෙම_DET මහඟු_JJ කාර්යය_NNN නැවතත්_RB වතාවක්_NNN අඩපණ_NVB වේදෝ_VFM 
+
+සැකයක්_NNN දැන්_RB මතුවී_VNF තිබේ_VFM ._. ආචාර්ය_NNM කාරියකරවන_NNPA මහතාගේ_NNM උත්සාහය_NNN එතනින්_NNN 
+
+නොනැවතී_VNF වගකිව_VP යුතු_? සියලු_DET දෙනාම_NNN මේ_DET පිළිබඳව_POST දැනුවත්_JVB කිරීමට_VNN ද_RP ඔහු_PRP වෙහෙස_NVB 
+
+දැරීය_VFM ._. මෙහි_PRP ප්‍රතිඵලයක්_NNN ලෙස_POST පුස්තකාල_NNN පරිපාලනය_NNN බ්‍රිතාන්‍යයේ_NNPI පිහිටි_VP ශ්‍රී_NNPI ලංකා_NNPI 
+
+මහ_JJ  කොමසාරිස්_NNM කාර්යාලයේ_NNN නිලධාරීන්_NNM සමග_CC සාකච්ඡා_NNN ආරම්භ_NVB කිරීමටත්_VNN ඒ_DET තුළින්_POST 
+
+බ්‍රිතාන්‍ය_NNPI පුස්තකාල_NNN අධිකාරියට_NNM මෙහි_PRP යථාර්ථය_NNN පහදා_VNF දීමටත්_VNN ගිවිස_NVB ගෙන_POST ඇත_VFM ._. පළමු_QFNUM 
+
+සැසිවාරය_NNN හෙට_NNN (_( 29වැනි_QFNUM දා_NNN )_) ශ්‍රී_NNPI ලංකා_NNPI මහ_JJ  කොමසාරිස්_NNM කාර්යාලයේ_NNN දී_POST පැවැත්වෙන_VNN 
+
+අතර_POST මේ_DET ගැන_POST හිත_NNN ඇති_VP සියලුම_DET ශ්‍රී_NNPI ලාංකිකයන්ට_NNN සුනිල්_NNPA කාරියකරවන_NNPA මහතා_NNM ඉතා_JJ 
+
+සාදරයෙන්_JJ ඇරයුම්_NVB කිරීමට_VNN ද_RP අමතක_NVB නොකළේ_VP ය_RP ._. එම_DET උත්සාහය_NNN සාර්ථක_JVB වී_VNF 
+
+පුස්තකාල_NNN අධිකාරිය_NNM විසින්_POST ඒ_DET මහතාට_NNM මෙම_DET කාර්යය_NNN තවදුරටත්_RB කර_VNF ගෙන_VNF යාමට_VNN අවසර_NNN 
+
+දුනහොත්_VNF 12වැනි_QFNUM සියවසේ_QFNUM පන්_JJ කොළවල_NNN ලියවුණු_VP කවි_NNPI සිළුමිණ_NNPI වැනි_POST අපේ_PRP උතුම්_JJ 
+
+ග්‍රන්ථයන්_NNN පරිගණක_NNN අන්තර්ජාල_NNN සහ_CC වෙබ්_NNN අඩවි_NNN තුළින්_POST ලොව_NNN පුරා_POST සිටින_VP ශ්‍රී_NNPI 
+
+ලාංකිකයන්ට_NNN කියවීමේ_VNN මහඟු_JJ අවස්ථාවක්_NNN උදාවනු_VP ඇතැයි_DET කාරියකරවන_NNPA මහතා_NNM 
+
+වැඩිදුරටත්_RB පැවසීය_VFM ._.
+ඉරාක_NNPI යුද්ධයට_NNN වසරක්_QFNUM පිරෙන_VP දා_NNN ලන්ඩනය_NNPI පුරා_POST යුද_NNN විරෝධී_JJ රැළි_NNN
+ඉරාකයට_NNPI විරුද්ධ_JJ ව_VNF දියත්_NVB කළ_VP යුද්ධයට_NNN වසරක්_QFNUM පිරෙන_VP දිනයේ_NNN  දී_POST මුළු_DET ලන්ඩනය_NNPI පුරා_POST 
+
+දහස්_QFNUM සංඛ්‍යාත_NNN පිරිස්_NNM විසින්_POST ඒ_DET වෙනුවෙන්_DET විරෝධය_NNN පළ_? කරමින්_VNF උද්ඝෝෂණ_NNN රැළි_NNN 
+
+පවත්වන_VP ලදී_VFM ._. ට්‍රැපල්ගා_NNPI චත්‍රරශ්‍රයේ_NNN දී_POST ආරම්භ_NVB වූ_VP මේ_DET රැළිය_NNN පැය_NNN ගණනක්_NNN තිස්සේ_POST 
+
+පැවැති_VP අතර_POST වඩාත්_JJ කැපී_VNF පෙනෙන_VP සිද්ධිය_NNN බවට_? පත්_? වූයේ_VP යුද_NNN විරෝධී_JJ දෙදෙනෙක්_NNM බිග්_NNPI 
+
+බෙන්_NNPI කුළුණ_NNN මුදුනට_NNN නැගී_VNF ධජයක්_NNN ලෙළදීමට_VNN සැලැස්වීමයි_VNN ._.
+සිංහල_NNPI අලුත්_JJ අවුරුදු_NNN ලන්ඩනයේ_NNPI මෙවරත්_? ජයට_JJ ම_RP මෙවරත් සිංහල_NNPI හින්දු_NNPI අලුත්_JJ අවුරුදු_NNN උළෙල_NNN වෙනුවෙන්_POST ලන්ඩනය_NNPI පුරා_POST උත්සව_NNN 
+
+ගණනාවක්ම_NNN සංවිධානය_NNN කොට_VNF ඇති_VP බව_? අපට_PRP දැනගන්නට_VNN ලැබී_VNF ඇත_VFM ._. ක්‍රොයිඩන්_NNPI 
+
+පුරවරයේ_NNN පිහිටි_VP තේම්ස්_NNPI බෞද්ධ_NNPI විහාරය_NNN විසින්_POST සංවිධානය_NNN කරන_VP අලුත්_JJ අවුරුදු_NNN උළෙල_NNN 
+
+ලබන_VP මස_NNN 11වැනි_QFNUM දිනට_NNN ෆාස්ට්_NNN කෑෂ්_NNN <FRWD>(Fast_FRW Cash_FRW)</FRWD> 
+
+ආයතනයේ_NNN මූලික_JJ අනුග්‍රාහකත්වයෙන්_NNN පැවැත්වීමට_VNN නියමිත_JJ ය_RP ._. තේම්ස්_NNPI බෞද්ධ_NNPI 
+
+විහාරයේ_NNN ප්‍රධාන_JJ සංඝනායක_NNM පහළගම_NNPA සෝමරතන_NNPA හිමිපාණන්ගේ_NNM මූලිකත්වයෙන්_NVB 
+
+පැවැත්වෙන_VP මෙම_DET උළෙල_NNN ශ්‍රී_NNPI ලංකා_NNPI වාසීනට_NNM ආවේණික_NVB වූ_VP පරම්පරාගත_JJ සංස්කෘතික_JJ අංග_NNN 
+
+ගණනාවකින්_NNN ම_RP අලංකාර_NNN වනු_VP ඇත_VFM ._. දවස_NNN මුළුල්ලේ_POST ම_RP පවතින_VP කෙළි_NNN සෙල්ලම්වලට_NNN 
+
+අමතර_JJ ව_RP පැමිණෙන_VP සියල්ලන්ට_NNM ශ්‍රී_NNPI ලාංකික_JJ ආහාරවල_NNN රස_NVB බැලීමේ_VP අවස්ථාව_NNN ද_RP 
+
+උදා_? වෙනු_VP ඇත_VFM ._. මහා_JJ සංඝයාට_NNM පිදෙන_VP දානමය_JJ පුණ්‍යකර්මය_NNN ද_RP එදිනෙදා_NNN කැපී_VNF පෙනෙන_VP 
+
+තවත්_DET විශේෂ_JJ අංගයකි_NNN ._.
+"_” හෙළ_NNPI සරණ_NNN "_” පතා_VNF ලන්ඩනයේ_NNPI ජගත්_NNPA ,_, බෙග්_NNPA සහ_CC ජී._NNPA එස්._NNPA බී._NNPA
+එක්සත්_JJ රාජධානියේ_NNPI "_” හෙළ_NNPI සරණ_NNN "_” ආයතනයට_NNN ආධාර_NNN පිණිස_POST පැවැත්වෙන_VNN සංගීත_NNN 
+
+සංදර්ශනයක්_NNN අද_NNN (_( 28වැනි_QFNUM දා_NNN )_) ලන්ඩනයේ_NNPI දී_POST පැවැත්වීමට_VNN නියමිත_JJ ය_RP ._. සංගීතවේදී_NNM 
+
+ජගත්_NNPA වික්‍රමසිංහ_NNPA ,_, ඉෂාක්_NNPA මොහිදීන්_NNPA බෙග්_NNPA සහ_CC ගීත_NNN කෝකිලා_NNF ජී._NNPA එස්._NNPA බී._NNPA රාණි_NNPA මෙම_DET 
+
+සංදර්ශනයට_NNN ගීත_NNN ගායනයෙන්_NNN හවුල්_NVB වෙන_VP අතර_POST විජේරත්න_NNPA රණතුංග_NNPA ,_, ඩී._NNPA ඩී._NNPA 
+
+ගුණසේකර_NNPA සහ_CC හේමපාල_NNPA පෙරේරා_NNPA යන_? ශීල්පීන්_NNM වාදනයෙන්_NNN හවුල්_? වනු_VP ඇත_VFM ._.
+එක්සත්_JJ රාජධානියේ_NNPI සිට_POST ශ්‍රී_NNPI ලංකාවේ_NNPI සුභ_NNN සාධනය_NNN වෙනුවෙන්_POST වෙහෙසන_VP පුණ්‍ය_JJ 
+
+ආයතන_NNN අතර_POST ප්‍රමුඛ_JJ ස්ථානයක්_NNN ගන්නා_VP හෙළ_NNPI සරණ_NNN සංවිධානය_NNN 1996_QFNUM වසරේ_NNN දී_POST ආරම්භ_NVB 
+
+වූ_VP අතර_POST ඒ_DET මුඛ්‍ය_JJ අරමුණ_NNN වූයේ_VP මායිම්_NNN ගම්වල_NNN වෙසෙන_VP පිරිස්වලට_NNM නිවාස_NNN තනා_VNF දීම_VNN ය_RP ._. 
+
+මේ_DET වන_VP විට_RP ඔවුන්_PRP ජීවත්_NVB වූ_VP ගරා_NVB වැටුණු_VP කටුමැටි_JJ නිවෙස්_NNN වෙනුවට_POST ගඩොලින්_NNN තනන_VP ලද_VP 
+
+නිවාස_NNN රාශියක්_NNN ලබා_VNF දීමට_VNN හෙළ_NNPI සරණ_NNN ආයතනය_NNN සමත්_? වී_VNF ඇත_VFM ._.
+හෙළ_NNPI සරණ_NNN ආයතනය_NNN කිසි_DET විටෙකත්_RP මුදල්_NNN ,_, ආහාර_NNN හෝ_CC ඇඳුම්_NNN වැනි_POST කෙටි_JJ කාලීන_JJ 
+
+සහනාධාරවලට_NNN මූලික්තවයක්_NNN නොදෙන_VP අතර_POST දීර්ඝ_JJ කාලීන_JJ ආදායම්_NNN මාර්ග_NNN ලබා_VNF දෙන_VP 
+
+කෘෂිකාර්මික_JJ ව්‍යාපෘති_NNN කෙරෙහි_POST වැඩි_RP අවධානයක්_NNN යොමු_NVB කොට_VNF ඇති_VP බව_? ඔවුන්ගේ_PRP 
+
+ඉතිහාසය_NNN දෙස_NVB බලන_VP කල_RP පෙනී_VNF යයි_VFM ._. එකී_? ගම්මානවල_NNN දිළිඳු_JJ දරුවන්ගේ_NNN අධ්‍යාපනික_JJ 
+
+කටයුතු_NNN වැඩි_JJ දියුණු_NVB කොට_VNF උසස්_JJ අධ්‍යාපනය_NNN කරා_POST එළැඹීමට_VNN අවස්ථාව_NNN සලසාදීමේ_VNN 
+
+අටියෙන්_NNN විටින්_? විට_RP ශිෂ්‍යත්ව_NNN පිරිනැමීමට_VNN ද_RP පියවර_NNN ගෙන_VNF ඇත_VFM ._. සෞඛ්‍ය_NNN තත්ත්වය_NNN 
+
+නඟාලීම_VNN වෙනුවෙන්_POST නොයෙකුත්_JJ ව්‍යාපෘත_NNN සංවිධානය_NNN මඟින්_POST දියත්_NVB කොට_VNF ඇත_VFM ._. 
+
+බදුල්ල_NNPI මහා_JJ ආරෝග්‍යා_NNN ශාලාවට_NNN විවිධ_JJ ප්‍රදානයන්_NNN මේ_DET ආයතනය_NNN මඟින්_POST සපයා_VNF ඇති_VP 
+
+අතර_POST අනාගතයේ_NNN දී_POST එවැනි_JJ ව්‍යාපෘති_NNN ගණනාවක්_NNN ම_RP දියත්_NVB කිරීමට_VNN ද_RP තීරණය_NVB කොට_VNF 
+
+ඇත_VFM ._. අද_NNN  (_( 28_QFNUM )_) පැවැත්වෙන_VP සංදර්ශනයෙන්_NNN ලැබෙන_VP සියලු_DET ම_RP ආදායම්_NNN අනාගත_NNN 
+
+සහනාධාර_NNN ව්‍යාපෘති_NNN සඳහා_POST යොදවන_VP බව_? අපට_PRP දැනගන්නට_VNN ලැබිණි_VFM ._.
+ද_NNPI මැසනඩ්_NNPI විදුහල_NNN මෙවර_NNN ක්‍රිකට්_NNN සැණකෙළියට_NNN
+කඳාන_NNPI ද_NNPI මැසනඩ්_NNPI විදුහලේ_NNN එක්සත්_JJ රාජධානියේ_NNPI ආදි_JJ ශිෂ්‍ය_NNM සංගමයේ_NNN වාර්ෂික_JJ සමුළුව_NNN 
+
+පසුගිය_JJ 19වැනි_QFNUM දින_NNN ලන්ඩන්_NNPI නුවර_NNN ප්‍රින්ස්_NNPI ඔෆ්_NNPI සිලෝන්_NNPI හෝටලයේ_NNN දී_POST පැවැත්විණි_VFM ._. 
+
+මෙම_DET හමුවෙහි_NNN ප්‍රධාන_JJ කටයුත්ත_NNN වූයේ_VP 2004_QFNUM වසරට_NNN නව_JJ නිලධාරි_NNM මඩුල්ල_NNM පත්_? කිරීමේ_VNN 
+
+සභාපති_NNM ධූරය_NNN සඳහා_POST සම්පත්_NNPA වික්‍රමරත්න_NNPA මහතා_NNM නිතරගයෙන්_JVB පත්_? විය_VFM ._. බ්‍රිතාන්‍ය_NNPI 
+
+පාපන්දු_NNN ක්‍රීඩාවට_NNN සම්බන්ධ_NNN වික්‍රමරත්න_NNPA මහතා_NNM විනිසුරුකරුවකු_NNM ලෙස_RP කටයුතු_NVB කරන_VP 
+
+අතර_POST එම_DET වරම_NNN ලබා_VNF ගත්_VP එක_QFNUM ම_RP ශ්‍රී_NNPI ලාංකිකයා_NNM ද_RP ඔහු_PRP ය_RP ._. සංගමයේ_NNN ලේකම්_NNM ධූරය_NNN 
+
+වෙනුවෙන්_POST විදුහලේ_NNN හිටපු_VP ක්‍රිකට්_NNN නායකයකු_NNM හා_CC පුහුණුකරුවකු_NNM වූ_VP වර්නන්_NNPA සේනානායක_NNPA 
+
+මහතා_NNM පත්_? වූ_VP අතර_POST භාණ්ඩාගාරික_NNM ලෙස_RP හිටපු_VP පාසල්_NNN පැසිපන්දු_NNN නායකයකු_NNM වූ_VP පාසල්_NNN 
+
+වර්ණලාභී_JJ සමන්ත_NNPA ඒකනායක_NNPA මහතා_NNM පත්_? විය_VFM ._. සංගමයේ_NNN අනුශාසක_NNM ලෙස_RP වත්මන්_JJ 
+
+විදුහල්පති_NNM කැමිලස්_NNPA සිල්වා_NNPA සහෝදරතුමා_NNM ද_RP ජ්‍යෙෂ්ඨ_JJ විධායකවරුන්_NNM ලෙස_RP නෙවිල්_NNPA 
+
+ජයවර්ධන_NNPA සහ_CC දොන්_NNPA හියුබට්_NNPA යන_? මහත්වරු_NNM ද_RP තේරී_VNF පත්_? වූහ_VFM ._. කාලාන්තරයක්_NNN තිස්සේ_POST 
+
+බ්‍රිතාන්‍යයේ_NNPI මහත්_JJ උත්කර්ෂවත්_JJ අන්දමින්_RP වාර්ෂික_NNN ව_RP පැවැත්වෙන_VP ශ්‍රී_NNPI ලාංකික_NNPI පාසල්_NNN ආදි_JJ 
+
+ශිෂ්‍ය_NNM සංගම්_NNN අතර_POST පැවැත්වෙන_VP ක්‍රිකට්_NNN සැණකෙළියට_NNN මෙතෙක්_RP කඳාන_NNPI ද_NNPI මැසනඩ්_NNPI විදුහල_NNN 
+
+ඇතුළත්_NVB නොවු_VP අතර_POST 2004_QFNUM වසර_NNN වෙනුවෙන්_POST පැවැත්වෙන_VP සැණකෙළියට_NNN 
+
+කණ්ඩායමක්_NNM වශයෙන්_POST සහභාගී_NVB වීමේ_VNN වරම_NNN මෙදා_NNN ලැබුණු_VP බව_? සමිති_NNN වාරයේ_NNN දී_POST ප්‍රකාශයට_NVB 
+
+පත්_? වීම_VNN පැමිණ_VP සිටි_VP සැමගේ_NNM සතුටට_NNN හේතු_NVB විය_VFM ._. ජූනී_NNPI මාසයේ_NNN දී_POST පැවැත්වීමට_VNN නියමිත_JJ 
+
+එම_DET තරගාවලියට_NNN පෙරහුරුවක්_NNN ලෙස_RP සාන්ත_NNPI බෙනඩික්_NNPI ආදි_JJ ශිෂ්‍ය_NNM කණ්ඩායම_NNN සමග_CC සුහද_JJ 
+
+තරගයක්_NNN පැවැත්වීමට_VNN ද_RP මෙහි_PRP දී_POST තීරණය_NVB විය_VFM ._.
+</ART>

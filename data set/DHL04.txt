@@ -1,0 +1,10 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004-6-24</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+වකුගඩුවක්_NNN පතයි_VNF 
+
+වකුගඩු_NNN ආබාධයකින්_NNN පෙලෙන_VP නක්කාවත්ත_NNPI බිහල්පොල_NNPI පදිංචි_NNN ඩී_NNPA ._.  සී_NNPA ._.  රණසිංහගේ_NNPA ජීවිතය_NNN බේරාගැනීමට_VNN වකුගඩුවක්_NNN බද්ධ_NVB කළ_VP යුතුය_? ._.  ඒ_DET සඳහා_POST '_' ඒ_NNPI '_'  හෝ_CC '_' ඕ_NNPI '_'  වර්ගයේ_NNN වකුගඩුවක්_NNN වයස_NNN අවුරුදු_NNN පනහට_QFNUM අඩු_POST අයකුගෙන්_? අවශ්‍යව_NNN ඇත_VFM ._.   මේ_DET සඳහා_POST දායක_NVB විය_VP  හැකි_? අයකු_PRP වේ_VP නම්_POST ඩී._NNPA   සී._NNPA රණසිංහ_NNPA බිහල්පොල_NNPI ,_,  නක්කාවත්ත_NNPI ලිපිනයෙන්_NNN හෝ_CC දුරකථන_NNN අංක_NNN 0372286253න්_QFNUM වැඩි_JJ විස්තර_NNN ලබා_VNF  ගත_? හැක_? ._. 
+</ART>

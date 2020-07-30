@@ -1,0 +1,14 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004-6-24</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+ආර්පිකෝ_NNPI සුපිරි_JJ සල්_NNN තුනක_QFNUM කොමර්ෂල්_NNPI බැංකු_NNN සේවාහල්_NNN
+
+සුපිරි_JJ වෙළෙඳසල්_NNN බැංකුකරණයේ_NNN පුරෝගාමියා_NNM වන_VP කොමර්ෂල්_NNPI බැංකුව_NNN කොළඹ_NNPI නගරාශ්‍රිතව_NNN පිහිටි_VP ආර්පිකේ_NNPI සුපිරි_JJ අලෙවි_NNN සල්_NNN තුනක_QFNUM සිය_PRP සේවාහල්_NNN ආරම්භ_NVB කර_VNF තිබේ_VFM ._.  හයිඩ්පාර්ක්_NNPI ,_,  දෙහිවල_NNPI හා_CC බත්තරමුල්ල_NNPI ආර්පිකෝ_NNPI සුපර්_NNPI අලෙවිසල්හි_NNN මෙම_DET කොමර්ෂල්_NNPI බැංකු_NNN සේවාහල්_NNN ක්‍රියාත්මක_NVB වේ_VP ._. 
+හයිඩ්පාර්ක්_NNPI සේවාහල_NNN විවෘත_JVB කිරීමේ_VNN උත්සවය_NNN අමතමින්_VNF කොමර්ෂල්_NNPI බැංකුවේ_NNN කළමනාකාර_NNM අධ්‍යක්ෂ_NNM අමිත_NNPA ගුණරත්න_NNPA මහතා_NNM කියා_VNF සිටියේ_VP රිචඩ්_NNPI පීරිස්_NNPI ආයතන_NNN සමූහය_NNN කොමර්ෂල්_NNPI බැංකුවේ_NNN ඉපැරණි_JJ ගනුදෙනුකරුවකු_NNM බවත්_? ,_,  මෙම_DET සේවාහල්_NNN ඇරඹීම_VNN මගින්_POST එම_DET දිගුකාලීන_JJ සබැඳියාව_NNN තවදුරටත්_RP ශක්තිමත්_JVB වන_VP බව_NNN ය._. 
+කොමර්ෂල්_NNPI බැංකුවේ_NNN සියලු_DET ශාඛාවල_NNN ගනුදෙනුකරුවන්ට_NNM  පමණක්_RP නොව_VP ගනුදෙනුකරුවන්_NNM නොවන_VP අයට_PRP ද_RP නිවාඩු_NNN දින_NNN ,_,  සති_NNN අන්තයේ_NNN සහ_CC සියලුම_DET දිනයන්හි_NNN දී_POST මෙන්_POST ම_RP සැදෑ_NNN කාලයේ_NNN දීත්_POST බැංකු_NNN පහසුකම්_NNN සැලසීම_VNN මේ_DET සේවාහල්වල_NNN අරමුණ_NNN බව_NNN ගුණරත්න_NNPA මහතා_NNM තවදුරටත්_RP පැවසී_VFM ය_RP ._. 
+ආර්පිකෝ_NNPI බෙදාහැරීම්_VNN අංශයේ_NNN කළමනාකාර_NNM අධ්‍යක්ෂක_NNM මහින්ද_NNPA ගලගෙදර_NNPA මහතා_NNM පැවසුවේ_VP ,_,  සිය_PRP සේවාහල්_NNN තුනක්_QFNUM හයිඩ්පාර්ක්_NNPI ,_,  දෙහිවල_NNPI හා_CC බත්තරමුල්ලේ_NNPI පිහිටි_VP ආර්පිකෝ_NNPI සුපර්_NNPI සෙන්ටර්_NNPI ඇරඹීම_VNN සතුටට_NNN කරුණක්_NNN වන්නේ_VP මෙම_DET සහසම්බන්ධතාවය_NNN හේතුවෙන්_POST අදාළ_? ආයතන_NNN දෙකෙහි_QFNUM ම_RP අනර්ඝ_JJ සේවය_NNN සියලු_DET ගණුදෙනුකරුවන්_NNM වෙත_POST කාර්යක්ෂම_JJ ලෙස_PRP  පිරිනැමෙන_VP නිසා_POST බව_NNN යි_RP ._. 
+ඉහත_JJ කී_VNF ප්‍රදේශවල_NNN ගනුදෙනුකරුවන්_NNM හට_POST ආර්පිකෝ_NNPI සුපර්_NNPI සෙන්ටර්වල_NNPI සාප්පු_NNN සවාරියේ_NNN යෙදෙමින්_VNF තම_PRP බැංකු_NNN අවශ්‍යතා_NNN ඉටුකැර_VNF ගැනීමේ_VNN අවස්ථාව_NNN දැන්_RB උදාවී_VNF  තිබේ_VFM ._.  කොමර්ෂල්_NNPI බැංකුවේ_NNN පරිගණකගත_NNN ජාලය_NNN හරහා_POST ශාඛා_NNN 119කුත්_QFNUM ස්වයංක්‍රීය_JJ ටෙලර්_NNPI යන්ත්‍ර_NNN 170කුත්_QFNUM සම්බන්ධ_NVB වී_VNF තිබීම_VNN ,_,  ගනුදෙනුකරුවන්ගේ_NNM  බැංකු_NNN කටයුතු_NNN වඩාත්_RP පහසු_NVB කරයි_VFM ._. 
+</ART>

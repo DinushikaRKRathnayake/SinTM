@@ -1,0 +1,14 @@
+<HEADER>
+<SOURCE>DINAMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+ඉන්දියාවේ_NNPI තෙරැපීමකින්_VNN 21_QFNUM දෙනකු_NNM මිය_? යාමේ_VNN සිද්ධිය_NNN
+බී._NNPI ජේ._NNPI පී._NNPI මැතිවරණ_NNN ප්‍රචාරක_JJ කළමනාකරු_NNM තනතුරින්_NNN දොට්ට_POST
+නවදිල්ලියේ_NNPI දී_POST
+ඉන්දියාවේ_NNPI තෙරපීමකින්_VNN පුද්ගලයන්_NNM 21_QFNUM දෙනෙකු_NNM මිය_? ගිය_VP සිද්ධියට_NNN මුල්_JVB වූ_VP භාරතීය_NNPI ජනතා_NNM පක්ෂ_NNN මැතිවරණ_NNN ප්‍රචාරක_JJ කළමනාකරු_NNM ලාල්ජි_NNPA ටැන්ඩන්_NNPA පෙරේදා_NNN නෙරපා_VNF හැර_VNF ඔහු_PRP වෙනුවට_POST වෙනත්_DET අයෙකු_PRP පත්_? කැර_VNF තිබේ_VFM ._.
+උත්තර_NNPI ප්‍රදේශ්හි_NNN ලක්නව්_NNPI අගනුවර_NNN පැවති_VP ලාල්ජිගේ_NNPA 70වන_QFNUM උපන්_VP දින_NNN උත්සවයේ_NNN දී_POST පැමිණියවුන්ට_NNM තෑගි_NNN වශයෙන්_POST ලබා_VNF දීමට_VNN නියමිත_JVB වු_VP සාරි_NNN තොගය_NNN ,_, සංවිධායකින්_NNM විසින්_POST රැස්_? වූවන්_NNM දෙසට_NNN විසි_? කිරීමේ_VNN දී_POST ඇති_VP වු_VP පොර_NVB කෑම_VNN හා_CC තෙරපීම_VNN නිසා_RP කාන්තාවන්_NNF 19_QFNUM දෙනෙකු_NNM හා_CC ළමයින්_NNM දෙදෙනෙකු_NNM මිය_? ගොස්_VNF තිබිණ_VFM ._. සිද්ධිය_NNN සම්බන්ධයෙන්_POST ලාල්ජි_NNPA ඔහුට_PRP හිමි_? කාරයභාරයෙන්_NNN නෙරපීම_VNN ,_, සිද්ධියෙන්_NNN ඇති_VP වන_VP හානිය_NNN අවම_JJ කැර_VNF ගැන්මේ_VNN ප්‍රයත්නයක්_NNN ලෙස_POST සමහරෙකු_PRP හඳුන්වා_VNF තිබේ_VFM ._. ඉන්දීය_NNPI පාර්ලිමේන්තුවේ_NNN ආසන_NNN 545කින්_QFNUM 80කට_QFNUM මන්ත්‍රීන්_NNM පත්_? වන_VP උත්තර_NNPI ප්‍රදේශයේ_NNN දැනට_RB ආසන_NNN 29ක_QFNUM සතු_? බලය_NNN 50_QFNUM දක්වා_POST වැඩි_JVB කැර_VNF ගැන්ම_VNN මෙවර_NNN භාරතීය_NNPI ජනතා_NNM පක්ෂයේ_NNN අරමුණ_NVB වී_VNF තිබුණු_VP අවස්ථාවක_NNN මේ_DET ඛේදවාචකය_NNN සිදු_? වී_VNF ඇත_VFM ._. සෑම_DET අවුරුද්දක_NNN ම_RP මෙම_DET සාරි_NNN බෙදා_VNF දීම_VNN සිදු_? වන_VP නමුදු_CC මෙවර_NNN සිදු_? වූ_VP දෙය_NNN අවාසනාවන්ත_JJ සිද්ධියකැයි_NNN භාරතීය_NNPI ජනතා_NNM පක්ෂ_NNN ප්‍රකාශක_JJ කීවේ_VP ය_RP ._. මෙම_DET සාරි_NNN බෙදා_VNF දීම_VNN සඳහා_POST මෙවන්_RB උත්සවයක්_NNN යොදා_VNF ගැන්ම_VNN මැතිවරණය_NNN හමුවේ_POST දේශපාලන_NNN පක්ෂවල_NNN පැවතිය_VP යුතු_? ආචාරධර්මයන්_NNN උල්ලංඝනය_NVB කිරීමක්_VNN බව_? විපක්ෂ_JJ කොංග්‍රසය_NNN පෙන්වා_VNF දී_VNF තිබේ_VFM ._. බොහෝ_DET ඉන්දිය_NNPI පුවත්පත්වල_NNN මේ_DET සිද්ධිය_NNN කතුවැකියට_NNN ද_RP මාතෘකා_NVB වී_VNF තිබිණ_VFM ._.
+හින්දු_NNPI ටයිම්ස්_NNPI පුවත්පත_NNN එහි_PRP දී_POST ප්‍රශ්න_NVB කැර_VNF තිබුණේ_VP රජයෙන්_NNN ප්‍රකාශිත_VP දිදුලන_VP ඉන්දියාවක්_NNPI පවතින්නේ_VP නම්_RP රුපියල්_NNPI 40ක්_QFNUM වැනි_? ලාබදායි_JJ සාරි_NNN බෙදා_VNF දීමක_VNN දී_POST ඒවා_PRP ඩැහැ_? ගැන්මට_VNN මෙවන්_JJ පොර_NVB කෑමක්_VNN සිදු_? වේ_VFM ද_RP යන්න_? ය_RP ._. සරුසාර_JJ හැඟීමක්_NNN ඇති_VP කිසි_DET ම_RP ගැහැනියක්_NNF මෙවන්_JJ ලාබ_JJ සාරියක්_NNN වෙනුවෙන්_POST දිවි_NNN පරදුවට_NNN නොතබනු_VP ඇති_VP බව_? ද_RP ඉන්_PRP කියැවිණි_VFM ._.
+ඒ_NNPI එෆ්._NNPI පී._NNPI
+</ART>

@@ -1,0 +1,11 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004-6-24</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+වකුගඩුවක්_NNN පතයි_VNF 
+
+වෙන්නප්පුව_NNPI ,_,  කොලින්ජාඩියේ_NNPI "_" ලුවීගර්ට්_NNPI "_" නිවසේ_NNN පදිංචි_NNN සුරනී_NNPA ශානිකා_NNPA ෆොන්සේකා_NNPA මහත්මිය_NNF දරුණු_JJ වකුගඩු_NNN රෝගයකින්_NNN පෙළෙන_VP හෙයින්_POST  ඇයට_PRP '_" ඒ_NNPI '_"  හෝ_CC '_" ඕ_NNPI '_"  රුධිර_NNN වර්ගයේ_NNN වකුගඩුවක්_NNN බද්ධ_NVB කළ_VP යුතු_? ය_RP ._. 
+මෙකී_DET පරිත්‍යාගය_NNN කළ_VP හැකි_? කෙනෙකු_PRP ඇත්නම්_? දුරකතන_NNN අංක_NNN 0312256157_QFNUM හෝ_CC 0777897208ට_QFNUM අමතන්න_VNF ._. 
+</ART>

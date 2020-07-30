@@ -1,0 +1,14 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004-6-24</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+අවුරුදු_NNN සති_NNN අන්තයේ_NNN කොමර්ෂල්_NNPI බැංකු_NNN ඒ_NNPI ටී_NNPI එම්_NNPI යන්ත්‍රවලින්_NNN මිලියන_QFNUM 625ක්_QFNUM ගෙවයි_VFM 
+
+අප්‍රේල්_NNN මස_NNN පැවැති_VP දින_NNN 5ක_QFNUM අවුරුදු_NNN සති_NNN අන්තය_NNN තුළ_POST කොමර්ෂල්_NNPI බැංකුවේ_NNN ඒ_NNPI ටී_NNPI එම්_NNPI ජාලයට_NNN සම්බන්ධ_POST යන්ත්‍ර_NNN 170_QFNUM මඟින්_POST රුපියල්_NNPI මිලියන_QFNUM 625ක_QFNUM මුදලක්_NNN ආපසු_POST ගෙවා_VNF ඇති_VP බව_NNN එම_DET බැංකුව_NNN පවසයි_VFM ._. 
+කොමර්ෂල්_NNPI බැංකුවේ_NNN නියෝජ්‍ය_JJ සාමාන්‍යාධිකාරි_NNM  (_( පුද්ගල_NNN බැංකු_NNN කටයුතු_NNN )_)  රවි_NNPA ඩයස්_NNPA මහතා_NNM පවසන_VP අන්දමට_NNN මෙම_DET කාලය_NNN තුළ_POST මුදල්_NNN ආපසු_POST ගැනීම්_VNN 151_QFNUM ,_, 000කට_QFNUM ආසන්න_POST සංඛ්‍යාවක්_NNN සිදුවී_VNF ඇති_VP අතර_POST අධික_JJ  ලෙස_PRP  භාවිතය_NNN නිසා_POST ඒ_NNPI ටී_NNPI එම්_NNPI වැඩි_JJ ප්‍රමාණයකට_NNN කිහිපවතාවක්_? ම_RP මුදල්_NNN ඇතුළත්_JVB කිරීමට_VNN ද_RP සිදුවී_VNF  ඇත_VFM ._.   
+වෙනත්_? බැංකුවල_NNN කාඩ්පත්_NNN හිමියන්_NNM මෙන්ම_POST දේශීය_NNN හා_CC විදේශීය_NNN කාඩ්පත්_NNN හිමියන්_NNM ද_RP මෙම_DET වාර්තාගත_NNN මුදල්_NNN ආපසු_POST ගැනීම_VNN සඳහා_POST දායක_NVB වී_VNF ඇත_VFM ._.   
+ මෙයට_? අමතරව_RB කැට්_NNPI කාඩ්පත්_NNN හිමියන්_NNM විසින්_POST කර_VNF ඇති_VP ශේෂය_NNN පරීක්ෂා_NVB කිරීම්_VNN සංඛ්‍යාව_NNN සහ_CC ඉල්ලුම්_NVB කරන_VP ලද_VP කෙටි_NNN බැංකු_NNN ප්‍රකාශන_NNN සංඛ්‍යාව_NNN 48_QFNUM ,_, 000කි_QFNUM ._.  170ක_QFNUM ඒ_NNPI ටී_NNPI එම්_NNPI සංඛ්‍යාවකින්_NNN සමන්විත_? වූ_VP කොමර්ෂල්_NNPI බැංකු_NNN ඒ_NNPI ටී_NNPI එම්_NNPI ජාලය_NNN දිවයිනේ_NNN විශාලතම_RB ජාලය_NNN වීමත්_VNN ,_,  බැංකුව_NNN විසින්_POST යොදා_VNF ගෙන_VNF ඇති_VP සුපිරි_JJ තාක්ෂණයෙන්_NNN යන්ත්‍ර_NNN භාවිතාවේ_NNN මෙබඳු_? ඉක්මන්_JJ වැඩිවීමක්_VNN ඇතිවීමට_VNN බලපෑ_VNN ප්‍රධාන_JJ සාධක_NNN  ලෙස_PRP  සැලකිය_NVB හැකිය_? ._. 
+කොමර්ෂල්_NNPI බැංකුව_NNN "_" මාස්ටර්_NNPI කාඩ්_NNPI ජාත්‍යන්තරය_NNPI "_" සමඟ_POST සම්බන්ධවී_VNF ඇති_VP බැවින්_POST ලොව_NNN පුරා_POST විසිරුණු_VP <FRWD>Cirrus</FRWD> ජාලයේ_NNN ඒ_NNPI ටී_NNPI එම්_NNPI යන්ත්‍ර_NNN මිලියනයකට_QFNUM අධික_JJ සංඛ්‍යාවක්_NNN සමඟ_CC ගනුදෙනු_NNN කිරීමටත්_VNN ,_,  මිලියන_QFNUM 4ට_QFNUM අධික_JJ වෙළෙඳුන්_NNM සංඛ්‍යාවකගෙන්_NNN සමන්විත_POST "_" <FRWD>Maestro</FRWD> "_" වෙළෙඳ_NNN ජාලයෙන්_NNN භාණ්ඩ_NNN මිලදී_VNF ගැනීමටත්_VNN කැට්_NNPI කාඩ්පත්_NNN හිමියන්ට_NNM හැකියාව_NNN ලැබී_VNF ඇත_VFM ._.   
+</ART>

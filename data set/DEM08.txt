@@ -1,0 +1,12 @@
+<HEADER>
+<SOURCE>DINAMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+ඊශ්‍රායල_NNPI ගුවන්_NNN ප්‍රහාරයකින්_NNN හමාස්_NNPI සංවිධාන_NNN නිර්මාතෘ_NNM මරුට_NNN
+ගාසාතීරයේ_NNPI දී_POST
+පලස්තීන_NNPI හමාස්_NNPI සංවිධානයේ_NNN නිර්මාතෘ_NNM හා_CC අධ්‍යාත්මික_JJ නායක_NNM ෂික්_NNPA අහමඩ්_NNPA යසින්_NNPA ඊශ්‍රායල්_NNPI ගුවන්_NNN ප්‍රහාරයකින්_NNN ඊයේ_NNN මරුමුවට_NNN පත්_? විය_VFM ._. ගාසාතීරයේ_NNPI දී_POST ඊයේ_NNN අලුයම_NNN ඔහු_PRP මුස්ලිම්_NNPI පල්ලියකින්_NNN බැහැර_VNF ව_VNF යද්දී_VNF ඊශ්‍රායල්_NNPI ප්රහාරක_NNN හෙලිකොප්ටර්_NNN යානා_NNN මගින්_POST ඔහුට_PRP රොකට්_NNN වෙඩි_NNN එල්ල_NVB කොට_VNF ඇත_VFM ._. යසින්_NNPA රෝද_NNN පුටුවට_NNN සීමා_NVB වූ_VP ජීවිතයක්_NNN ගත_VP කළ_VP අතර_CC ඔහුට_PRP වෙඩි_NVB වැදී_VNF තිබුණේ_VP රෝද_NNN පුටුවේ_NNN සිටියදී_VNF ම_RP ය_RP ._. ගාසාතීරයේ_NNPI සව්රා_NNPI ප්‍රදේශයේ_NNN දී_POST ඇති_VP වූ_VP මෙම_DET රොකට්_NNN ප්‍රහාරයේ_NNN දී_POST ඔහුගේ_PRP සහායකයින්_NNM දෙදෙනෙකු_NNM හා_CC අසලින්_POST ගමන්_NVB ගත්_VP පුද්ගලයකු_NNM ද_RP මිය_? ගොස්_VNF තිබේ_VFM ._. මහා_JJ පිපිරුම්_NNN හඩවල්_NNN තුනක්_QFNUM නැගීමෙන්_VNN පසු_POST එම_DET ස්ථානයට_NNN ගිය_VP රොයිටර්_NNPI වාර්තාකරුට_NNM ලේ_NNN වැකුණු_VP යසින්ගේ_NNPA රෝද_NNN පුටුවේ_NNN සුන්බුන්_NNN දක්නට_VNN ලැබී_VNF ඇත_VFM ._. ඔහුගේ_PRP මෘතදේහය_NNN නොදන්නා_VP ස්ථානයකට_NNN ගෙන_VNF ගිය_VP බව_POST ඇසින්_NNN දුටුවන්_NNM පැවසුව_VP ද_RP ගාසා_NNPI තීරයේ_NNN අල්_NNPI ෂිකා_NNPI රෝහලේ_NNN මෘතදේහය_NNN තිබෙනු_VP ඒ._NNPI ඇෆ්._NNPI පී_NNPI වාර්තාකරු_NNM දැක_VNF ඇත_VFM ._. ඔහුට_PRP ප්‍රහාර_NNN එල්ල_NVB වීමෙන්_VNN පසු_POST හමාස්_NNPI සටන්කාමීන්_NNM එහි_PRP රොක්වුනු_VP අතර_CC “_” ෂික්_NNPA මැරිලා_VFM  ._. ._. ._. ._. ෂික්_NNPA මැරිලා_VFM ”_” යනුවෙන්_? හඩ_NNN තලමින්_VNF ඔවුහු_PRP වැලපුණා_VFM ._. යසින්_NNPA  ,_, ඊශ්‍රායල්_NNPI හමුදා_NNN විසින්_POST පලස්තීන_NNPI ප්‍රදේශ_NNN අත්පත්_? කැර_VNF ගැනීමට_VNN එරෙහි_JJ ව_RP ප්‍රචණ්ඩකාරී_JJ ප්‍රතිචාරයක්_NNN දැක්විය_VP යුතු_POST ය_RP යන_? ස්ථාවරයේ_NNN දැඩි_JJ ව_RP පිහිටා_VNF සිටි_VP නායකයෙකි_NNM ._. ඔහුගේ_PRP හමාස්_NNPI සංවිධානය_NNN පලස්තීන_NNPI “_” ජන_NNM පිබිඳුමේ_VNN “_” ප්‍රමුඛ_JJ බලවේගයක්_NNN විය_VFM ._.
+රොයිටර්_NNPI
+ඒ._NNPI එෆ්._NNPI පී_NNPI
+</ART>

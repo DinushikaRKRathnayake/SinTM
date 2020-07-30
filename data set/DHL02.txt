@@ -1,0 +1,10 @@
+<HEADER>
+<SOURCE>SILUMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004-6-24</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+
+<ART>
+හදවත්_NNN සැත්කමට_NNN ආධාර_NVB පතයි_VNF 
+
+මාතර_NNPI ඌරුගමුවේ_NNPI තුෂාරි_NNPA චම්පිකා_NNPA මෙනෙවිය_NNF  (_( 21_QFNUM )_)  දරුණු_JJ හදවත්_NNN රෝගයකින්_NNN පෙළෙන_VP බැවින්_POST ශල්‍යකර්මයක්_NNN කළ_VP යුතුව_? ඇත_VFM ._.   ඒ_DET සඳහා_POST මහජන_NNN ආධාර_NNN පතන_VP අතර_POST ආධාර_NNN දික්වැල්ල_NNPI මහජන_NNPI  බැංකුවේ_NNN ගිණුම්_NNN අංක_NNN 201_QFNUM –_: 410993_QFNUM  –_: 7ට_QFNUM යොමු_? කළ_VP හැකිය_? ._. 
+</ART>

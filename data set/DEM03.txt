@@ -1,0 +1,14 @@
+<HEADER>
+<SOURCE>DINAMINA</SOURCE><PUBLISHER>ANCL</PUBLISHER>
+<DATE>2004</DATE><FONT>DINAMINA</FONT>
+</HEADER>
+<ART>
+මැඩ්රීඩ්_NNPI බෝම්බය_NNN අමෙරිකානු_NNPI ජාතිවාදීන්ට_NNM කළ_VP අනතුරු_NNN ඇගැවීමක්_VNN පමණයි_RP
+- _: අබු_NNPI බකර්_NNPI බෂීර්_NNPI කියයි_VFM
+කැල්බරාහි _NNPI දී_POST ය_RP
+මැඩ්රීඩ්_NNPI බෝම්බ_NNN පිපිරවීම්_VNN සිදු_? කළේ_VP ස්පාඤ්ඤය_NNPI අමෙරිකාවට_NNPI දක්වන_VP අනුග්‍රහය_NNN නිසා_RP බවත්_POST ,_, මෙය_PRP අමෙරිකානු_NNPI හිතවාදී_JJ සියලු_DET ම_RP රටවලට_NNN කළ_VP අනතුරු_NNN ඇඟැවීමක්_VNN බවත්_POST ජේමා_NNPI ඉස්ලාමිය_NNPI අන්තවාදී_JJ සංවිධානයේ_NNN ආධ්‍යාත්මික_JJ නායකයා_NNM බැව්_? කියන_VP අබු_NNPA බකර්_NNPA බෂීර්_NNPA පවසයි_VFM ._. දැනට_RB ඉන්දුනිසියම්_NNPI ජාකර්තා_NNPI නුවර_NNN බන්ධනාගාරයක_NNN  පසු_NVB වන_VP බෂීර් ,_, සිය_PRP සිර_NNN මැදිරියේ_NNN සිට_POST සිදු_? කළ_VP රූපවාහිනී_NNN සම්මුඛ_JJ සාකච්ඡාවක_NNN දී_POST පවසා_VNF ඇත්තේ_VP ,_, අල්ලාහ්ගේ_NNPA නාමයෙන්_NNN ,_, අමෙරිකාවේ_NNPI සහ_CC එරටට_NNN පක්ෂපාතී_JJ ජාතීන්_NNM විනාශ_NVB කර_VP දැමිය_VP යුතු_POST බවයි_VFM ._.
+ස්පාඤ්ඤ_NNPI රජය_NNN අමෙරිකාවට_NNPI දක්වන_VP සහයෝගය_NNN නිසා_RP මෙම_DET බෝම්බ_NNN පිපිරවීම්_VNN සිදු_? කළ_VP බැව්_? ස්පාඤ්ඤ_NNPI ජනතාව_NNM තේරුම්_NVB ගෙන_VNF තිබීම_VNN සතුටට_NNN කරුණකැයි_NNN මෙහි_PRP දී_POST ප්රකාශ_NVB කළ_VP බෂීර්_NNPA ඉරාකය_NNPI ,_, ඇෆ්ගනිස්තානය_NNPI ඇතුළු_POST ලෝකයේ_NNN නොයෙකුත්_JJ ඉස්ලාමීය_NNPI බල_NNN ප්‍රදේශවලට_NNN ,_, අමෙරිකාවෙන්_NNPI එල්ල_NVB වන_VP තර්ජනවලට_NNN විරෝධය_NNN දැක්වීම_VNN සඳහා_POST බෝම්බ_NNN පිපිරවීම්_VNN හෝ_CC ඊටත්_RP වඩා_RP භයානක_JJ පලි_NVB ගැනීම_VNN  සිදු_? විය_VP හැකි_? බව_POST  ද_RP අවධාරණය_NNN කළේ_VP ය_RP ._.
+අල්_NNPI -_: කයිඩා_NNPI ත්‍රස්ත_JJ ජාලය_NNN හා_CC සමීප_POST සබඳතා_NNN පවත්වන_VP ජෙමා_NNPI ඉස්ලාමියා_NNPI සංවිධානය_NNN 2002_QFNUM වසරේ_NNN ඔක්තෝබර්_NNPI මාසයේ_NNN ,_, 202කට_QFNUM මරු_NNN කැඳවමින්_VNF බාලි_NNPI දූපත්වල_NNN සිදු_? කළ_VP බෝම්බ_NNN පිපරවීම්වලට_VNN සහ_CC පසුගිය_JJ අගෝස්තු_NNPI මාසයේ_NNN 12_QFNUM දෙනකු_NNM ඝාතනය_NVB වූ_VP ජාකර්තාහි_NNPI මාරියම්_NNPI හෝටලයේ_NNN සිදු_? කළ_VP මරා_VNF ගෙන_VNF මැරෙන_VP බෝම්බ_NNN ප්‍රහාර_NNN සම්බන්ධයෙන්_POST චෝදනා_NNN ලැබ_VNF සිටී_VFM ._.
+එහෙත්_RB මේ_DET  ප්‍රහාර_NNN දෙකට_QFNUM හෝ_CC ජෙමා_NNPI ඉස්ලාමියා_NNPI සංවිධානයට_NNN තමාගේ_PRP කිසිදු_DET සම්බන්ධයක්_NNN නොමැති_VP බව_POST කියන_VP 65_QFNUM හැවිරිදි_NNN බෂීර්_NNPI ,_, සංක්‍රමණික_JJ නීති_NNN උල්ලංඝනය_NVB කිරීමේ_VNN චෝදනාවකට_NNN වැරදිකරු_NNM බව_POST ඔප්පු_? වීමෙන්_VNN බන්ධනාගාරගත_VP වී_VNF සිටී_VFM ._. ලබන_JJ අප්‍රියෙල්_NNP 19_QFNUM හෝ_CC 20වැනි_QFNUM දින_NNN ඔහුගේ_PRP සිර_NNN දඩුවම_NNN අවසන්_JVB වනු_VP ඇතැයි_VFM ප්රකාශ_NVB වී_VNF තිබේ_VFM ._.
+රොයිටර්_NNPI
+</ART>
