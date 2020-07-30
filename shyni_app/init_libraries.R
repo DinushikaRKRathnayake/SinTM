@@ -13,6 +13,7 @@ library(gofastr)
 # visualization related libraries
 library(shiny)
 library(shinydashboard)
+library(shinyjs)
 library(DT)
 library(wordcloud2)
 library(ggplot2)

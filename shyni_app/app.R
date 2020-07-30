@@ -26,7 +26,13 @@ ui <- dashboardPage(skin = "blue",
                             inputId = "file",
                             label = "Text document:",
                             multiple = FALSE,
-                            accept = c('.txt','text/plain')
+                            accept = c('text','text/plain')
+                          ),
+                          hidden(
+                            div(
+                              id="divErrorMsg", 
+                              textOutput(outputId = "fileErrorMsg")
+                            )
                           )
                         )
                       ),
@@ -276,7 +282,12 @@ server <- function(input, output) {
   input_file <- reactive({
     if (is.null(input$file)) {
       return("")
+   
     }else{
+      validate(
+        need(tolower(tools::file_ext(input$file$datapath)) == 'txt', "File type not support")
+      )
+      
       readLines(input$file$datapath,encoding = "UTF-8")
     }
   })
@@ -290,8 +301,11 @@ server <- function(input, output) {
   input_word_file <- reactive({
     if (is.null(input$wordfile)) {
       return("")
+    }else if (tolower(tools::file_ext(input$file$datapath)) != 'txt'){
+      return("")
+    }else{
+      readLines(input$wordfile$datapath,encoding = "UTF-8")
     }
-    readLines(input$wordfile$datapath,encoding = "UTF-8")
   })
   
   # input number of terms at tab 02
